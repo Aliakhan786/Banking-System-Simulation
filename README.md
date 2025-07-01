@@ -1,4 +1,4 @@
-# 🏦 Banking System Simulation (C++ Internship Project)
+# 🏦 Banking System Simulation (C++ Internship Project Task 2)
 
 ## 📌 Task Overview
 This is Task 2 of the **C++ Programming Internship**. It is a console-based simulation of a simple banking system developed using **Object-Oriented Programming** concepts in C++.
@@ -44,7 +44,3 @@ To simulate basic banking operations like:
 
 🧑‍💻 Developed by:
 Aaliya Khan – C++ Intern at Pedestal Techno World
-
-📅 Submission: Internship Task 2
-
-
