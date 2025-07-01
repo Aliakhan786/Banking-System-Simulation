@@ -35,7 +35,6 @@ To simulate basic banking operations like:
 | `main.cpp` | Complete banking system code |
 | `README.md` | Project summary and usage |
 | `sample_output.png` | Screenshot of working program |
-| `Project_Report.pdf` | (Optional) Report for submission |
 
 ## 👨‍💻 How to Run
 1. Open terminal in this folder
