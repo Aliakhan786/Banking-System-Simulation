@@ -26,7 +26,8 @@ To simulate basic banking operations like:
 
 ## 📸 Sample Output
 
-> ![Sample Output](output sc1.png)
+> ![Sample Output](sample_output.png)
+
 
 ## 📂 File Structure
 | File | Description |
@@ -41,6 +42,9 @@ To simulate basic banking operations like:
 2. Compile: `g++ main.cpp -o bank`
 3. Run: `./bank` or `bank.exe`
 
-## 📅 Submitted For
-**Pedestal Techno World C++ Programming Internship**
+🧑‍💻 Developed by:
+Aaliya Khan – C++ Intern at Pedestal Techno World
+
+📅 Submission: Internship Task 2
+
 
